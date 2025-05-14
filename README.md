@@ -1,4 +1,9 @@
-# JIYONG
+# Education
+|기간|소속|전공&교육|비고|
+|--|-----|---|
+|2021.03~|연세대학교|응용통계학|재학|
+|2024.07~2024.12|Yonsel Sports Analytics Lab(YSAL) 5기|Team Baseball|팀원|
+|2025.01~|Yonsel Sports Analytics Lab(YSAL) 6기|Team Baseball|팀장|
 
 # Project
 |프로젝트명|역할|비고|
